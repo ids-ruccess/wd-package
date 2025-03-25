@@ -8,8 +8,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "mcircle",
-  "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
-  }
+  "author": "mcircle"
 }
